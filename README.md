@@ -1,2 +1,5 @@
 # Projeto_IA_DadosEnem
-Nesse projeto serão utilizados conhecimentos em ciência de dados para mapear os Microdados do Inep referentes aos anos de 2020 e 2021 e posteriormente viabilizar a aplicação de machine learning. 
+
+<p>
+  Nesse projeto foram empregados conhecimentos em ciência de dados para produzir uma análise gráfica exploratória e mapear os Microdados do Inep referentes aos anos de 2020 e 2021, posteriormente fora viabilizado a aplicação de inteligência artificial para plots gráficos com cruzamento de dados.
+</p>
